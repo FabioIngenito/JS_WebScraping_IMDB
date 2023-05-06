@@ -5,6 +5,8 @@
 | :sparkles: Nome       | **JS_WebScraping_IMDB**          |
 | :label: Tecnologias   | JavaScript Puppeteer fs download |
 
+![jsWebScrapingIMDB](https://user-images.githubusercontent.com/24603753/236648607-367e6c0c-e5dc-447d-b5a7-dcd49cf5866a.png)
+
 <h2 align="left">Detalhes do projeto</h2>
 
 Montei esse Web Scraping baseado nestes videos, mas alterei alguns pontos.
