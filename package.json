@@ -1,0 +1,17 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "<h1 align=\"left\">Um exemplo de Web Scraping simples com JavaScript e Puppeteer acessando a página do IMDB</h1>",
+  "main": "webscraping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^8.0.0",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^19.11.1"
+  }
+}
